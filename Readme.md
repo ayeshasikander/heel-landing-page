@@ -55,6 +55,3 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
-
-Feel free to adapt and expand this README as needed for your specific project. It's important to provide clear instructions and documentation for anyone who might work with your landing page project.
